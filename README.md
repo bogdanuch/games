@@ -1,6 +1,7 @@
 # Games list App
 
 This project displays list of games for test task.\
+You can see a deployed version on https://games-one-mu.vercel.app/games. \
 I`ve tested it on node version of v14.18.1 and browser screen size of 1833x900 px.\
 Get request described in test assignment are not working, so I have copied data from requests on levelupcasino5.com and made a static game url.
 If they will start working - I can change them.\
