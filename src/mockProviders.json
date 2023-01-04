@@ -1,0 +1,306 @@
+[
+  {
+    "id": "1x2gaming",
+    "title": "1x2 Gaming"
+  },
+  {
+    "id": "elk",
+    "title": "ELK"
+  },
+  {
+    "id": "evolution",
+    "title": "Evolution"
+  },
+  {
+    "id": "amatic",
+    "title": "Amatic"
+  },
+  {
+    "id": "authentic",
+    "title": "Authentic Gaming"
+  },
+  {
+    "id": "belatra",
+    "title": "Belatra"
+  },
+  {
+    "id": "lucky",
+    "title": "Lucky"
+  },
+  {
+    "id": "blueprint",
+    "title": "Blueprint"
+  },
+  {
+    "id": "booming",
+    "title": "Booming Games"
+  },
+  {
+    "id": "bsg",
+    "title": "Betsoft Gaming"
+  },
+  {
+    "id": "egt",
+    "title": "Amusnet Interactive"
+  },
+  {
+    "id": "endorphina",
+    "title": "Endorphina"
+  },
+  {
+    "id": "evoplay",
+    "title": "Evoplay Entertainment"
+  },
+  {
+    "id": "ezugi",
+    "title": "Ezugi"
+  },
+  {
+    "id": "felixgaming",
+    "title": "Felix Gaming"
+  },
+  {
+    "id": "gameart",
+    "title": "GameArt"
+  },
+  {
+    "id": "habanero",
+    "title": "Habanero"
+  },
+  {
+    "id": "igrosoft",
+    "title": "Igrosoft"
+  },
+  {
+    "id": "irondogstudio",
+    "title": "IronDogStudio"
+  },
+  {
+    "id": "isoftbet",
+    "title": "iSoftBet"
+  },
+  {
+    "id": "luckystreak",
+    "title": "Lucky Streak"
+  },
+  {
+    "id": "merkur",
+    "title": "Merkur"
+  },
+  {
+    "id": "mrslotty",
+    "title": "MrSlotty"
+  },
+  {
+    "id": "netent",
+    "title": "Netent"
+  },
+  {
+    "id": "nolimit",
+    "title": "Nolimit"
+  },
+  {
+    "id": "nucleus",
+    "title": "Nucleus Gaming"
+  },
+  {
+    "id": "playson",
+    "title": "Playson"
+  },
+  {
+    "id": "mascot",
+    "title": "Mascot"
+  },
+  {
+    "id": "4theplayer",
+    "title": "4theplayer"
+  },
+  {
+    "id": "avatarux",
+    "title": "AvatarUX"
+  },
+  {
+    "id": "baddingo",
+    "title": "Baddingo"
+  },
+  {
+    "id": "bangbanggames",
+    "title": "Bangbanggames"
+  },
+  {
+    "id": "bbgames",
+    "title": "Bbgames"
+  },
+  {
+    "id": "bgaming",
+    "title": "BGaming"
+  },
+  {
+    "id": "boomerangstudios",
+    "title": "Boomerangstudios"
+  },
+  {
+    "id": "bulletproof",
+    "title": "Bulletproof"
+  },
+  {
+    "id": "electricelephant",
+    "title": "Electricelephant"
+  },
+  {
+    "id": "gamesinc",
+    "title": "Gamesinc"
+  },
+  {
+    "id": "gameslab",
+    "title": "Gameslab"
+  },
+  {
+    "id": "gamevy",
+    "title": "Gamevy"
+  },
+  {
+    "id": "hotrisegames",
+    "title": "Hotrisegames"
+  },
+  {
+    "id": "jaderabbit",
+    "title": "Jade Rabbit"
+  },
+  {
+    "id": "northernlights",
+    "title": "Northernlights"
+  },
+  {
+    "id": "petersons",
+    "title": "Petersons"
+  },
+  {
+    "id": "platipus",
+    "title": "Platipus"
+  },
+  {
+    "id": "playngo",
+    "title": "Play'n GO"
+  },
+  {
+    "id": "playtech",
+    "title": "Playtech"
+  },
+  {
+    "id": "pragmaticplay",
+    "title": "Pragmatic Play"
+  },
+  {
+    "id": "pragmaticplaylive",
+    "title": "Pragmatic Play Live"
+  },
+  {
+    "id": "printstudios",
+    "title": "Printstudios"
+  },
+  {
+    "id": "pushgaming",
+    "title": "Push Gaming"
+  },
+  {
+    "id": "quickfire",
+    "title": "Quickfire"
+  },
+  {
+    "id": "quickspin",
+    "title": "Quickspin"
+  },
+  {
+    "id": "redtiger",
+    "title": "Red Tiger Gaming"
+  },
+  {
+    "id": "reellifegames",
+    "title": "Reellifegames"
+  },
+  {
+    "id": "reelplay",
+    "title": "Reelplay"
+  },
+  {
+    "id": "reflexgaming",
+    "title": "Reflexgaming"
+  },
+  {
+    "id": "relax",
+    "title": "Relax Gaming"
+  },
+  {
+    "id": "retrogaming",
+    "title": "Retrogaming"
+  },
+  {
+    "id": "silverback",
+    "title": "Silverback"
+  },
+  {
+    "id": "spinomenal",
+    "title": "Spinomenal"
+  },
+  {
+    "id": "spribe",
+    "title": "Spribe"
+  },
+  {
+    "id": "thunderkick",
+    "title": "Thunderkick"
+  },
+  {
+    "id": "vivogaming",
+    "title": "Vivogaming"
+  },
+  {
+    "id": "wazdan",
+    "title": "Wazdan"
+  },
+  {
+    "id": "yggdrasil",
+    "title": "Yggdrasil"
+  },
+  {
+    "id": "zillion",
+    "title": "Zillion"
+  },
+  {
+    "id": "mancala",
+    "title": "Mancala Gaming"
+  },
+  {
+    "id": "fourleafgaming",
+    "title": "Fourleafgaming"
+  },
+  {
+    "id": "bluegurugames",
+    "title": "Bluegurugames"
+  },
+  {
+    "id": "reevo",
+    "title": "Reevo"
+  },
+  {
+    "id": "1spin4win",
+    "title": "1spin4win"
+  },
+  {
+    "id": "jelly",
+    "title": "Jelly"
+  },
+  {
+    "id": "3oaks",
+    "title": "3 Oaks"
+  },
+  {
+    "id": "goldenrock",
+    "title": "Goldenrock"
+  },
+  {
+    "id": "printstuidos",
+    "title": "Printstuidos"
+  }
+]

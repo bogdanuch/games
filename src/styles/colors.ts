@@ -1,0 +1,6 @@
+export const primaryLight = '#FFFFFF'
+export const infoPurple = '#4D4299'
+export const infoGreyBlue = '#7C75AD'
+export const bgColorDefault = '#FDFDFF'
+export const lightBlue = '#62C7D4'
+export const infoDark = '#0006b1'
